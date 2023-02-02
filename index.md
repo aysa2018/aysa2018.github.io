@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-Probably ~studying~ sleeping.
+Probably ~~studying~~ sleeping.
 
 
 
@@ -15,4 +15,4 @@ Probably ~studying~ sleeping.
 - Playing guitar
 - Astronomy
 - Anime
-- Messing things up. *But calling it Experiment
+- Messing things up. *But calling it Experiment*
