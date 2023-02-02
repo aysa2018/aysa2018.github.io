@@ -5,14 +5,14 @@ menutitle: Home
 menuorder: 1
 ---
 
-Probably ~studying~ sleeping
+Probably ~studying~ sleeping.
 
 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Bullet journallaing
+- Playing guitar
+- Astronomy
+- Anime
+- Messing things up. *But calling it Experiment
