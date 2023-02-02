@@ -6,6 +6,13 @@ menuorder: 1
 ---
 
 
+## Spring 2023 Courses:
+
+- Intro to Computer Science
+- Intro to Digital Humanities
+- FYWS: Writers on Writing
+- CDAD: What is Life
+
 
 ## Current Interests and Projects:
 
@@ -13,4 +20,4 @@ menuorder: 1
 - Playing guitar
 - Astronomy
 - Anime
-- Messing things up. *But calling it Experiment*
+- Messing things up. *But calling it an eXPeRimEnT*
