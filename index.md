@@ -5,7 +5,8 @@ menutitle: Home
 menuorder: 1
 ---
 
-Probably ~~studying~~ sleeping.
+Sorry I was too busy.
+>Probably I was just sleeping lol.
 
 
 
