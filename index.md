@@ -6,7 +6,7 @@ menuorder: 1
 ---
 
 
-## Spring 2023 Courses:
+### Spring 2023 Courses:
 
 - Intro to Computer Science
 - Intro to Digital Humanities
@@ -14,7 +14,7 @@ menuorder: 1
 - CDAD: What is Life
 
 
-## Current Interests and Projects:
+### Current Interests and Projects:
 
 - Bullet journallaing
 - Playing guitar
