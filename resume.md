@@ -5,17 +5,13 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+First year Student studying Computer Science
 
 ## Education
 
-`1990 - 1994`
+`2022 - 2026`
 __University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+New York University Abu Dhabi
 
 ## Awards
 
