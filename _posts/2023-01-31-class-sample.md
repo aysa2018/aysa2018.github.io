@@ -2,8 +2,12 @@
 
 layout: post
 title: Assignment 1 
-excerpt: "#INTRODUCTION
-##TABLE OF CONTENTS"
+excerpt: "#
+INTRODUCTION
+
+##TABLE OF CONTENTS
+
+"
 modified: 2/1/2023 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
