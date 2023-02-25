@@ -1,11 +1,10 @@
 ---
 
 layout: post
-title: Assignment 1 
-excerpt: "#
-INTRODUCTION
+title: Digital Narrative Assignment
+excerpt: "
 
-##TABLE OF CONTENTS
+This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
 
 "
 modified: 2/1/2023 9:00:24
