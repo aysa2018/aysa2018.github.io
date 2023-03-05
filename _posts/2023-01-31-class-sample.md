@@ -2,7 +2,7 @@
 
 layout: post
 title: Digital Narrative Assignment
-excerpt: ""
+excerpt: "Assignment"
 modified: 2/1/2023 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
