@@ -1,12 +1,13 @@
 ---
 
 layout: post
-title: Digital Narrative Assignment
-excerpt: "Assignment"
+title: Digital Literacy Narrative Assignment
+excerpt: "Digital Literacy Narrative Assignment"
 modified: 2/1/2023 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
+permalink: /dln-assignment/
 ---
 As an 18 year old university student studying digital humanities, I am constantly learning about how to effectively utilize technology in my daily and academic life. Growing up in the digital age, I have always been familiar with various social media platforms and online tools for content creation. However, I never truly understood the potential of technology for research data management, data manipulation, and analysis until I started taking this introductory course in digital humanities.
 
