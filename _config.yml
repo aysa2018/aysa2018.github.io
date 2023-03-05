@@ -9,11 +9,11 @@ owner:
   name: Aysa Binte Masud
   avatar: bio-photo.jpg
   bio: "If I say that I was busy, don't ask me what I was doing. I was probably sleeping.."
-  email: #emailaddress
+  email: am12805@nyu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
+  linkedin: Aysa Binte Masud
+  github: aysa2018
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -22,8 +22,8 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
-  instagram: #username
+  facebook: Aysa Muma
+  instagram: _.__singularity__._
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#984de5'
+lowlight-color: '#320d59'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
