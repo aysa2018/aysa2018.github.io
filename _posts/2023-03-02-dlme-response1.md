@@ -50,7 +50,7 @@ I have chosen three paintings: Soyut, Paylama and Good Morning. The DLME platfor
 ![Paylama by Şenol Yorozlu](2.jpg)
 ![Soyut by Şenol Yorozlu](1.jpg)
 
-# Analysis: 
+# What do we get from the Metadata? : 
 
 As we can see Paylama and Soyut are by the same Turkish painter Yorozlu, Şenol whereas Good Morning is  by Komet. All of them were painted using oil color on canvas . Paylama and Good Morning both were painted in late 20th century and the date , for Soyut , is unknown. All of them are abstract art forms but absolutely have different art techniques. Good morning is more detailed compared to two other paintings; bold and dark colors were used to express strong emotions like rage, fear and anger. However, in Paylama which literally means Reproaching, cool colors were used with simple and strong strokes. In Soyut, (“Abstract” literal meaning), blue solid strokes were used to paint an abstract figure.
 The holding institution an data provider for all three paintings is Sakip Sabanci Museum and Sabancı Üniversitesi Sakıp Sabancı Müzesi holds the rights.
