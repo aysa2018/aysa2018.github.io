@@ -31,3 +31,23 @@ Metadata is "data that provides information about other data",but ***not the con
 : *the quality of being easy to find on a website, using a search engine, etc.* [^3]
 
 Yes, discoverability is how easily one content can be found on the internet or database. To increase the discoverability, metadata is widely used for example sometimes, contents are sorted according to some specific orders, alphabetically, most viewed or most popular, most recent etc.
+
+
+# What is metadata in DLME?
+
+The Digital Library of the Middle East (DLME) offers free and open access to the rich cultural legacy of the Middle East and North Africa by bringing together collections from a wide range of cultural heritage institutions. Developed by an engineering team from CLIR and Stanford Libraries, the platform federates and makes accessible data about collections from around the world. And in this post, we discuss the metadata in DLME.
+
+I have chosen three paintings: Soyut, Paylama and Good Morning. The DLME platform's metadata for the three photographs includes details like the item's title, the creator's name, the item's creation date, and the item's source. I have shown them in a table to make it easier to understand the difference and the similarities.
+
+| Painting    | Artist      |  Date         |  Type         |
+| :---        |    :----:   |         :---: |          ---: |
+| Good Morning| Komet       | 1974          | Oil on canvas |
+| Soyut       |Şenol Yorozlu| Undated       | Oil on canvas |
+| Paylama     |Şenol Yorozlu| 1993          | Oil on canvas |
+
+# Analysis: 
+
+As we can see Paylama and Soyut are by the same Turkish painter Yorozlu, Şenol whereas Good Morning is  by Komet. All of them were painted using oil color on canvas . Paylama and Good Morning both were painted in late 20th century and the date , for Soyut , is unknown. All of them are abstract art forms but absolutely have different art techniques. Good morning is more detailed compared to two other paintings; bold and dark colors were used to express strong emotions like rage, fear and anger. However, in Paylama which literally means Reproaching, cool colors were used with simple and strong strokes. In Soyut, (“Abstract” literal meaning), blue solid strokes were used to paint an abstract figure.
+The holding institution an data provider for all three paintings is Sakip Sabanci Museum and Sabancı Üniversitesi Sakıp Sabancı Müzesi holds the rights.
+
+
