@@ -55,4 +55,40 @@ I have chosen three paintings: Soyut, Paylama and Good Morning. The DLME platfor
 As we can see Paylama and Soyut are by the same Turkish painter Yorozlu, Şenol whereas Good Morning is  by Komet. All of them were painted using oil color on canvas . Paylama and Good Morning both were painted in late 20th century and the date , for Soyut , is unknown. All of them are abstract art forms but absolutely have different art techniques. Good morning is more detailed compared to two other paintings; bold and dark colors were used to express strong emotions like rage, fear and anger. However, in Paylama which literally means Reproaching, cool colors were used with simple and strong strokes. In Soyut, (“Abstract” literal meaning), blue solid strokes were used to paint an abstract figure.
 The holding institution an data provider for all three paintings is Sakip Sabanci Museum and Sabancı Üniversitesi Sakıp Sabancı Müzesi holds the rights.
 
+# Discoverability of these images:
+
+I made an effort to search the paintings using only the most basic criteria, such as the painting's title and artist. Even with the painting's name, it was challenging to locate them. This is most likely a result of the artworks' names not being  unique. Nonetheless, finding Paylama and Soyut became simpler after the artist's name was added. Even having the name of the artist, finding Good Morning was still challenging. After doing some basic research, I discovered that Komet is actually the artist's pseudonym whereas his real name is Gürkan Coşkun. But once he used his true name, it was simpler to locate some of his other works. But Good Morning still remained difficult.
+
+# What can we do to improve?
+
+Google offered me the definition of the words when I searched because the names of two paintings were in Turkish. Thus, I believe that the painting's metadata should include both the Turkish and English names in addition to a more detailed description of the painting's type rather than merely writing Resim (picture). It's important to mention the artworks' genre as well. 
+
+# Thoughts on the response of ChatGPT:
+
+Here is how chatGPT responds to the follwing prompt about discoverability: 
+
+> What is the importance of metadata to the discoverability of cultural objects in federated digital libraries?  How complete are they usually? What is the cost of metadata? How can we make it better? 
+
+*Metadata is critical to the discoverability of cultural objects in federated digital libraries. It serves as a bridge between the physical object and the digital representation of that object, providing information about its creator, subject, format, and other relevant details. Metadata allows users to search, browse, and filter digital collections, which is essential to finding the resources they need.*
+
+*Incomplete metadata can have a significant impact on the discoverability of cultural objects. For example, if an object is missing key metadata, such as its creator or date, it may not show up in search results or may be difficult to find among other similar objects. Additionally, inconsistent or inaccurate metadata can lead to confusion or errors when using digital libraries.*
+
+*The cost of metadata varies depending on the size and complexity of the collection, as well as the resources available for creating and maintaining metadata. Creating high-quality metadata can be time-consuming and resource-intensive, requiring skilled staff and specialized tools. However, the cost of metadata can be reduced through the use of automated tools and crowdsourcing, which can help to streamline the process and make it more cost-effective.*
+
+*To make metadata better, it is important to invest in creating high-quality metadata at the outset of a project and to maintain it over time. This requires a commitment to standards and best practices for metadata creation and management, as well as ongoing training and support for staff involved in metadata creation. Additionally, it is important to involve end-users in the process of creating metadata, as they can provide valuable insights and feedback on the usability and effectiveness of the metadata.*
+
+
+
+I believe Chatgpt is really providing a very broad overview of the subject. It obviously covers the fundamentals, however it doesn't actually analyze these issues in-depth. Furthermore, it doesn't provide a solution to these queries for any particular collection of objects or pictures. For instance, I went into great detail in my research of the metadata for the artworks to show how they differ and how they are similar, as well as whether or not they are easily discoverable. Nevertheless, in the instance of ChatGPT, it simply provided a relatively neutral response, which is OK for someone who is just learning about these subjects but ineffective for more in-depth examination.
+
+
+References:
+
+1. “Metadata.” Wikipedia, Wikimedia Foundation, 3 March. 2023, https://en.wikipedia.org/wiki/Metadata. 
+
+2. “Data.” Wikipedia, Wikimedia Foundation, 3 March. 2023, https://en.wikipedia.org/wiki/Data 
+
+3. “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Marcg. 2023, https://en.wikipedia.org/wiki/Discoverability.
+
+
 
