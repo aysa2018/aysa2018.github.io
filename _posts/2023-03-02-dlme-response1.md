@@ -87,11 +87,11 @@ I believe Chatgpt is really providing a very broad overview of the subject. It o
 
 References:
 
-1. “Metadata.” Wikipedia, Wikimedia Foundation, 3 March. 2023, https://en.wikipedia.org/wiki/Metadata. 
+[^1]: 1. “Metadata.” Wikipedia, Wikimedia Foundation, 3 March. 2023, https://en.wikipedia.org/wiki/Metadata. 
 
-2. “Data.” Wikipedia, Wikimedia Foundation, 3 March. 2023, https://en.wikipedia.org/wiki/Data 
+[^2]: 2. “Data.” Wikipedia, Wikimedia Foundation, 3 March. 2023, https://en.wikipedia.org/wiki/Data 
 
-3. “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Marcg. 2023, https://en.wikipedia.org/wiki/Discoverability.
+[^3]: 3. “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Marcg. 2023, https://en.wikipedia.org/wiki/Discoverability.
 
 
 
