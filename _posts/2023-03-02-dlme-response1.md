@@ -47,8 +47,11 @@ I have chosen three paintings: Soyut, Paylama and Good Morning. The DLME platfor
 
 
 ![Good Morning by Komet](3.jpg)
+[Good Morning by Komet](https://dlmenetwork.org/library/catalog/ResimKlksyn%2F1042)
 ![Paylama by Şenol Yorozlu](2.jpg)
+[Paylama by Şenol Yorozlu](2https://dlmenetwork.org/library/catalog/ResimKlksyn%2F933)
 ![Soyut by Şenol Yorozlu](1.jpg)
+[Soyut by Şenol Yorozlu](https://dlmenetwork.org/library/catalog/ResimKlksyn%2F942)
 
 # What do we get from the Metadata? : 
 
