@@ -15,7 +15,7 @@ In my daily life, I mainly use social media platforms like *Instagram* and *Snap
 
 In this class, I came to know about-
 1. Many resources like [Project Gutenberg](https://www.gutenberg.org/) where millions of books are stored
-2. Some websites like [Github](https://github.com/) and [Wordpress](https://wordpress.com/) where we can showcase our portfolio and other resources. [^1]
+2. Some websites like [Github](https://github.com/) and [Wordpress](https://wordpress.com/) where we can showcase our portfolio and other resources. 
 3. Learnt how the same type of data can be very different in many different regions of the world.
 4. How culture and history can affect data
 5. How data can be biased toward certain groups of people while against others. 
@@ -28,6 +28,17 @@ The digital humanities course has opened my eyes to the vast array of technology
 Despite my prior experience with technology and my newfound knowledge from the digital humanities course, I still feel that my abilities in this area are limited. I am aware that there is so much more to learn, and I am excited to continue to expand my skills and knowledge in the field.
 > As this class is always hands-on, it does not get boring. Ever.
 
+In this course, I was able to experiment with several programs and applications for text analysis, data visualization, and geographical information system (GIS) mapping.**Google N-gram** was one among the resources I discovered, and it proved invaluable for studying long-term changes in linguistic fashion. I also picked up some knowledge on *Culturomics*, which involves the analysis of massive amounts of text data to reveal patterns in social and cultural movements.
+
+Surface reading was another method we explored, as it allowed us to go deeper into specific texts and better grasp their content and context. Distant reading, on the other hand, makes use of algorithms and software to sift through massive amounts of text material, looking for trends and patterns that could otherwise go unnoticed.
+
+To better analyze and interpret big datasets, we also looked at visualization tools like *"The Great Unread"* and *Time Series Plots/Graphs*. I learned the value of layering, base maps, symbology, zoom level, and labeling when making maps thanks to resources like Green Book, Mapping the Gay Guides, Tejiendo la city, Detroitography, Tabletop Debates: Mapping Molokhia, and Largest Cities of the World.
+
+I learnt how to make aesthetically appealing maps in ***Kepler*** by considering factors like map style and color scales, which was a vital element of the course.
+
+Finally, we investigated several transcribing tools, including ***Transcribus*** for text and several 3D modeling platforms, including Thingiverse, 3dwarehouse, and Yeggi. In addition to learning how to use the technologies themselves, I was able to hone "soft skills" like observation, analysis, and innovation.
+
+
 In conclusion, my digital literacy journey as a university student taking an introductory course in digital humanities has been eye-opening and enriching. I have come to appreciate the potential of technology for research data management, data manipulation, and analysis, and I am eager to continue learning about how to effectively utilize these tools in my academic and professional life. While I have some basic skills in content creation and social interaction, I am aware that there is still much more to learn and I am eager to continue to expand my knowledge and abilities in this area.
 
-[^1]: My favorite part of this class is that I ~~worked~~ started working on Github
+> My favorite part of this class is that I ~~worked~~ started working on Github
