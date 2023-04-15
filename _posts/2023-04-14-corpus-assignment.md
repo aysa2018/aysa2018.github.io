@@ -1,19 +1,17 @@
-
-
 ---
 
 layout: post
-title: Corpus Assignment
-excerpt: "Corpora Assignment"
+title: Comparison between corpora
+excerpt: "The Corpus Assignment"
 modified: 2/1/2023 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
-permalink: /corpora-assignment/
+permalink: /corpus-assignment/
 ---
 
-# Guidelines for the Assignment: 
 
+# What is metadata?
 The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown files in Posit Cloud. This assignment can be done alone or in pairs.
 
 In Spring 2023 you can replace this assignment with attending the entire ["Unlocking Archives with AI"](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai) 2-day workshop and writing it up. See more instructions below for that replacement assignment. If you swap an assignment with your attendance at this workshop, this should be done alone. 
