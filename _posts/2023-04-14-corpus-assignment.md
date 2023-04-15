@@ -1,12 +1,16 @@
 
----
-title: "Assignment 2 - Working with a Corpus"
-layout: post
-excerpt: "Corpus Assignment"
-sitemap: false
-permalink: /corpus-assignment/
+
 ---
 
+layout: post
+title: Digital Library of Middle-East
+excerpt: "Corpora Assignment"
+modified: 2/1/2023 9:00:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+permalink: /corpora-assignment/
+---
 # Guidelines for the Assignment: 
 
 The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown files in Posit Cloud. This assignment can be done alone or in pairs.
