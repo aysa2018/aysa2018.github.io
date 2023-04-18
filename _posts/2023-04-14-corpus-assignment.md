@@ -60,7 +60,7 @@ Analysis of all the three books combined:
 
 
 
-
+<img src="/assets/wordcloud.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
 ![Word Cloud of all the three books combined](word_cloud_all3.png)
