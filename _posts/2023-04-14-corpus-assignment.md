@@ -85,7 +85,7 @@ By examining the most commonly used words in each of these novels, we can gain i
 
 
 
-<img src="/assets/line_fraph_said.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/line_graph_said.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
 
