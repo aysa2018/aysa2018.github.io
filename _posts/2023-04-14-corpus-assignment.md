@@ -63,8 +63,6 @@ Analysis of all the three books combined:
 <img src="/assets/word_cloud_all3.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
-![Word Cloud of all the three books combined](word_cloud_all3.png)
-
 Given Scale: 135 
 Highest repeated word : ***said***(830), #1: 207 counts, #2: 443 counts, #3: 108 counts 
 Smallest repeated word : ***there’s*** (64), #1: 13 counts, #2: 52 counts, #3: 0 Counts
@@ -86,18 +84,17 @@ For instance, in "The Mystery of Cloomber," words such as "Singh," "Buddhist," "
 By examining the most commonly used words in each of these novels, we can gain insight into the themes, settings, and characters that the author wanted to emphasize, and deepen our understanding of the rich and complex worlds that Arthur Conan Doyle created in his crime fiction.
 
 
-![Linegraph of the word "Said"](line_fraph_said.png)
+
+<img src="/assets/line_fraph_said.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
-
-![Graph of the most repeated term: said (830 iterations)]()
 
 # Analytical data from the Book 1: My friend The Murderer
 
-![Word Cloud of *My friend The Murderer*](word_cloud_book1.png)
-![Linegraph of *My friend The Murderer*](linegraph_book1.png)
-![Information about *My friend The Murderer*](stats_book1.png)
-
+<img src="/assets/word_cloud_book1.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/linegraph_book1.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/word_cloud_all3.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/stats_book1.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
 
@@ -113,9 +110,8 @@ Furthermore, this analysis also suggests that other sections of the book were mo
 
 # Analytical data from the Book 2: A Study In Scarlet
 
-![Word Cloud of *A Study In Scarlet*](word_cloud_book2.png)
-![Linegraph of *A Study In Scarlet*](linegraph_book2.png)
-
+<img src="/assets/word_cloud_book2.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/linegraph_book2.png" style="width:80%; height:50%; margin-left:10%;" />
 Upon careful examination of this corpus data, it is evident that the term "Gutenberg" was solely employed in the first and last segments of the book. This finding suggests that the term was not utilized within the actual content of the book, despite being among the most frequently occurring words in the book's text format.
 
 This observation is particularly interesting because the book was obtained from Project Gutenberg, a digital library that provides access to free e-books. It is possible that the term "Gutenberg" was mentioned in the metadata section located at the beginning and the end of the book, which provides information about the book's author, publisher, and copyright status.
@@ -124,11 +120,9 @@ The fact that the term "Gutenberg" was only used in the metadata sections indica
 
 # Analytical data from Book 3: The Mystery of Cloomber
 
-![Word Cloud of *The Mystery of Cloomber*](word_cloud_book3.png)
-![Linegraph of *The Mystery of Cloomber*](linegraph_book3.png)
-![Information about *The Mystery of Cloomber*](stats_book3.png)
-
-
+<img src="/assets/word_cloud_book3.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/linegraph_book3.pngg" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/assets/stats_book3.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
 Upon conducting a thorough analysis of the corpus data, it became apparent that the third book exhibited a considerably higher vocabulary density in comparison to the preceding two books. This finding suggests that the author utilized a more diverse range of words and expressions in the third book, which could indicate a more sophisticated writing style or a greater emphasis on character development.
