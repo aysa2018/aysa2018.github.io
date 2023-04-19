@@ -92,18 +92,15 @@ By examining the most commonly used words in each of these novels, we can gain i
 # Analytical data from the Book 1: My friend The Murderer
 
 <img src="/assets/word_cloud_book1.png" style="width:80%; height:50%; margin-left:10%;" />
-<img src="/assets/linegraph_book1.png" style="width:80%; height:50%; margin-left:10%;" />
-<img src="/assets/word_cloud_all3.png" style="width:80%; height:50%; margin-left:10%;" />
-<img src="/assets/stats_book1.png" style="width:80%; height:50%; margin-left:10%;" />
-
-
-
-
 
 
 Through a meticulous analysis of the corpus data, a noteworthy finding emerged in the form of the word "said" being frequently utilized in the middle sections of the book, more specifically in segments 4 through 6. This observation suggests that these particular portions were predominantly driven by dialogue, as opposed to descriptive prose. In other words, these segments were more focused on conversations between characters, resulting in a more dynamic and engaging reading experience.
 
+<img src="/assets/linegraph_book1.png" style="width:80%; height:50%; margin-left:10%;" />
+
 The significance of this finding lies in the fact that it sheds light on the structure of the book and how the author crafted different parts of the narrative. By utilizing the word "said" frequently in the middle segments, the author was able to create an immersive experience for the reader by placing them directly in the midst of character interactions. This technique allowed the author to convey the emotions and attitudes of each character in a more organic and natural way, making them seem more authentic and relatable.
+
+<img src="/assets/stats_book1.png" style="width:80%; height:50%; margin-left:10%;" />
 
 Furthermore, this analysis also suggests that other sections of the book were more descriptive and less dialogue-driven. This serves to create a sense of balance in the narrative, providing the reader with moments of introspection and reflection, while also allowing for moments of heightened tension and excitement in the dialogue-heavy segments. This discovery highlights the effectiveness of utilizing dialogue as a tool to engage readers and create a more immersive experience. It also emphasizes the importance of balancing dialogue and descriptive prose to create a well-rounded and captivating narrative.
 
@@ -111,23 +108,29 @@ Furthermore, this analysis also suggests that other sections of the book were mo
 # Analytical data from the Book 2: A Study In Scarlet
 
 <img src="/assets/word_cloud_book2.png" style="width:80%; height:50%; margin-left:10%;" />
-<img src="/assets/linegraph_book2.png" style="width:80%; height:50%; margin-left:10%;" />
+
 Upon careful examination of this corpus data, it is evident that the term "Gutenberg" was solely employed in the first and last segments of the book. This finding suggests that the term was not utilized within the actual content of the book, despite being among the most frequently occurring words in the book's text format.
 
 This observation is particularly interesting because the book was obtained from Project Gutenberg, a digital library that provides access to free e-books. It is possible that the term "Gutenberg" was mentioned in the metadata section located at the beginning and the end of the book, which provides information about the book's author, publisher, and copyright status.
+
+<img src="/assets/linegraph_book2.png" style="width:80%; height:50%; margin-left:10%;" />
 
 The fact that the term "Gutenberg" was only used in the metadata sections indicates that the author did not directly reference the digital library or its mission within the narrative. However, the use of Project Gutenberg as a source for the text version of the book highlights the growing importance of digital libraries and the impact they have on literature and reading habits. This finding emphasizes the significance of paying attention to the context in which words are used in a text, as it can provide valuable insights into the author's intentions and the underlying themes of the book.
 
 # Analytical data from Book 3: The Mystery of Cloomber
 
 <img src="/assets/word_cloud_book3.png" style="width:80%; height:50%; margin-left:10%;" />
-<img src="/assets/linegraph_book3.pngg" style="width:80%; height:50%; margin-left:10%;" />
-<img src="/assets/stats_book3.png" style="width:80%; height:50%; margin-left:10%;" />
 
 
 Upon conducting a thorough analysis of the corpus data, it became apparent that the third book exhibited a considerably higher vocabulary density in comparison to the preceding two books. This finding suggests that the author utilized a more diverse range of words and expressions in the third book, which could indicate a more sophisticated writing style or a greater emphasis on character development.
 
+<img src="/assets/linegraph_book3.pngg" style="width:80%; height:50%; margin-left:10%;" />
+
+
+
 Additionally, the term "tae" was found to be used more frequently than "said," particularly in segments 3 to 5 of the book. This observation implies that these segments were heavily dialogue-driven and likely featured more descriptive sentences, portraying characters engaged in intense conflicts and conversations. The concentration of "tae" in these parts highlights the author's skill in creating dialogue that is engaging and emotionally charged, providing the reader with a more immersive reading experience.
+
+<img src="/assets/stats_book3.png" style="width:80%; height:50%; margin-left:10%;" />
 
 The prevalence of "tae" in the dialogue-heavy sections further suggests that the characters in these segments were grappling with significant issues, adding to the depth and complexity of the story. This could indicate a shift in the narrative, moving towards more intense conflicts and character development, which is often a sign of a well-crafted and thought-provoking storyline. This analysis provides insight into the stylistic and narrative choices made by the author in the third book. It highlights the use of language and dialogue as powerful tools for engaging readers and creating a sense of immersion in the story.
 
