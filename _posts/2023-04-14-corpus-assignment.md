@@ -13,7 +13,7 @@ permalink: /corpus-assignment/
 
 ## What is Corpus? 
 
-***Corpus***
+**Corpus**
 : A large and structured collection of written or spoken texts that are used for linguistic analysis and research.[^1] 
 
 The texts in a corpus can come from a variety of sources, such as books, newspapers, magazines, speeches, conversations, or any other form of written or spoken communication.Corpora are used for a variety of purposes in linguistics and natural language processing, such as developing language models, studying language variation and change, identifying patterns in language use, and evaluating the performance of language technologies.
