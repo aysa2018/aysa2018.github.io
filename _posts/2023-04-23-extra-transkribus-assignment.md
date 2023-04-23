@@ -28,6 +28,9 @@ At the conclusion of the workshop, I felt both exhilarated and motivated. I had 
 - Visit to Special Collections 
 - hands-on workshop for attendees, learning about a specific platform
 
+# Tools used
+Trankribus.ai
+
 # What is NLP and LLM
 
 Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) concerned with enabling computers to comprehend, interpret, and produce human language. Large volumes of natural language data, such as written text, speech, and audio recordings, are analyzed and processed by NLP algorithms in order to extract meaningful insights and patterns.
