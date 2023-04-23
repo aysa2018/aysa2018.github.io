@@ -1,3 +1,14 @@
+---
+
+layout: post
+title: Unlocking Archives with AI
+excerpt: "Transkribus Assignment"
+modified: 2/1/2023 9:00:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+permalink: /workshop-assignment/
+---
 Imagine entering a workshop that transports you through time, space, and knowledge. That’s what happened when I attended "Unlocking Archives with AI", a two-days workshop on March 28, 2023 as part of the Humanities Research Fellowship for the Study of the Arab World, which was hosted by two brilliant minds, Professor David Wrisley,and Assistant Professor Suphan Kirmizialtin, 
 
 As soon as I entered, I was transported to a world where the humanities and technology coexisted harmoniously. As we delved deeply into the world of archives, discovering hidden treasures and unlocking their secrets with the aid of cutting-edge AI technology, the air was electric with enthusiasm.
