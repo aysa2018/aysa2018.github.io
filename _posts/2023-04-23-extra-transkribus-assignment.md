@@ -66,7 +66,7 @@ We studied 3 cases:
 
 
 
-What do recent developments with AI have to do with "opening up" archival collections? 
+# What do recent developments with AI have to do with "opening up" archival collections? 
 
 Recent advances in AI may enhance archive management, cataloguing, and public access. Archival institutions struggle to organize and make material available to scholars and the public due to the massive amount of content they maintain.
 
