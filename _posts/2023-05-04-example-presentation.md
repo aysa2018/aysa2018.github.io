@@ -9,19 +9,17 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Reveal.js and Jekyll Academic
+    ## Our Final Presentation
     ---
-    ## HTML or Markdown
-    Reveal.js works with either. Use whatever you are more comfortable with.
-    ---
+  
     ## Data
-    1.Food menu: whether all food items are from the authentic cuisine
-    2.Additional taste: Whether they are changing their recipe to attract more customers
-    3.Additional ingredients: Whether they are adding local/other unusual ingredients
-    4.Additional foods: Whether they are adding local food items or those from the neighboring country for making their restaurant more appealing
-    5.Special techniques: Hotpot, chopsticks, using hands etc. 
-    6.Decoration:Traditional or modern?
-    7.Any noticeable trends in restaurants of specific region
+    1. Food menu: whether *all* food items are from the authentic cuisine
+    2. Additional taste: Whether they are changing their recipe to attract more customers
+    3. Additional ingredients: Whether they are adding local/other unusual ingredients
+    4. Additional foods: Whether they are adding local food items or those from the neighboring country for making their restaurant more appealing
+    5. Special techniques: Hotpot, chopsticks, using hands etc. 
+    6. Decoration:Traditional or modern?
+    7. Any noticeable trends in restaurants of specific region
 
     ---
     ## More Information
