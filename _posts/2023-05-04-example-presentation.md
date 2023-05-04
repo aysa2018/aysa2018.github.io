@@ -10,17 +10,18 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
 
+    ---
     ## Our Final Presentation
     "Unproject Project"
 
     ---
     ## Data
-    1. Food menu: whether *all* food items are from the authentic cuisine
-    2. Additional taste: Whether they are changing their recipe to attract more customers
-    3. Additional ingredients: Whether they are adding local/other unusual ingredients
-    4. Additional foods: Whether they are adding local food items or those from the neighboring country for making their restaurant more appealing
-    5. Special techniques: Hotpot, chopsticks, using hands etc. 
-    6. Decoration:Traditional or modern?
+    1. Food menu
+    2. Additional taste
+    3. Additional ingredients
+    4. Additional foods
+    5. Special techniques
+    6. Decoration
     7. Any noticeable trends in restaurants of specific region
 
     ---
