@@ -49,7 +49,7 @@ category: presentation
     Authenticity
 
     ---
-    ## Resources
+    ## Resources used
     1. Cartographic representation
     2. Crowd-sourcing
     3. Web-develeoper for the website
