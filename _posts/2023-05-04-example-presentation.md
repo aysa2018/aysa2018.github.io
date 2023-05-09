@@ -42,7 +42,7 @@ category: presentation
     1. Cartographic representation
     2. Crowd-sourcing
     3. Web-develeoper for the website
-    ## Values and Ethics:
+    
 
   </textarea>
 </section>
