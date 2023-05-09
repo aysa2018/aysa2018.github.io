@@ -53,7 +53,16 @@ category: presentation
     1. Cartographic representation
     2. Crowd-sourcing
     3. Web-develeoper for the website
-    
+
+    ---
+    ## Workplan
+    1. Decide on and collect metadata
+    2. Making a site and uploading the data of the restaurants on the site
+    3. Making a review section where people can talk about the restaurants or any specific dish of the restaurant  
+    4. The reviews will be short and anonymous
+    5. Up-voting and down-voting option for the restaurants and the dishes
+    6. Making an interactive map on the site which will give some basic information when hovered over
+
 
   </textarea>
 </section>
