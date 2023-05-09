@@ -14,6 +14,7 @@ category: presentation
 
 
     ---
+    <img src="/assets/1.png" style="width:80%; height:50%; margin-left:10%;" />
     ## Scope
     Our projects main focus is to explore how authentic asian restaurants are in the UAE in terms of food and aesthetics of the place. 
 
