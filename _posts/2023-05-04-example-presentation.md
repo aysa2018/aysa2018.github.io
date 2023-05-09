@@ -22,7 +22,7 @@ category: presentation
 
 
     ---
-    ## Data
+    ## Data📊
     1. Food menu
     2. Additional taste
     3. Additional ingredients
@@ -36,7 +36,7 @@ category: presentation
     ## Techniques
     1. Digitization
     2. Crowdsourcing
-    3. Orange mining - image
+    3. Orange mining - image 🍊
     4. Text analysis
 
 
@@ -53,7 +53,7 @@ category: presentation
 
     ---
     ## Resources used
-    1. Cartographic representation
+    1. Cartographic representation🗺️
     2. Crowd-sourcing
     3. Web-develeoper for the website
 
