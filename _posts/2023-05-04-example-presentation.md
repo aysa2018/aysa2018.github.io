@@ -43,13 +43,13 @@ category: presentation
     ---
     ## Aim
     Our mission is to be your go-to resource for Abu Dhabi's thriving restaurant scene, covering the city's greatest restaurants in every price range, neighborhood, and cuisine. Our blog is here to guide you to the best restaurants and hidden treasures in Abu Dhabi, whether you're a native foodie or a tourist searching for the real deal.
-    > Rather than a numerical rating, we are goiing to include pros and cons and specialty.
+    > Rather than a numerical rating, we are going to include pros and cons and specialty.
 
 
     ---
     ## Values and Ethics:
-    Honesty
-    Authenticity
+    1. Honesty
+    2. Authenticity
 
     ---
     ## Resources used
