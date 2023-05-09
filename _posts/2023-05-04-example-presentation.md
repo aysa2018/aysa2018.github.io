@@ -32,10 +32,10 @@ category: presentation
 
     ---
     ## Techniques
-    1.Digitization
-    2.Crowdsourcing
-    3.Orange mining - image
-    4.Text analysis
+    1. Digitization
+    2. Crowdsourcing
+    3. Orange mining - image
+    4. Text analysis
 
 
     ---
