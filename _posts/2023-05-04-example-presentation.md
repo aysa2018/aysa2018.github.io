@@ -48,13 +48,13 @@ category: presentation
 
     ---
     ## Values and Ethics:
-    <img src="/assets/2.jpeg" style="width:40%; height:25%; margin-left:10%;" />
+    <img src="/assets/2.jpeg" style="width:80%; height:50%; margin-left:10%;" />
     1. Honesty
     2. Authenticity
 
     ---
     ## Resources used
-    <img src="/assets/3.jpeg" style="width:40%; height:25%; margin-left:10%;" />
+
     1. Cartographic representation🗺️
     2. Crowd-sourcing
     3. Web-develeoper for the website
@@ -69,6 +69,8 @@ category: presentation
     6. Making an interactive map on the site which will give some basic information when hovered over
 
     ---
+    <img src="/assets/3.jpeg" style="width:40%; height:25%; margin-left:10%;" />
+    Thank You!
 
   </textarea>
 </section>
