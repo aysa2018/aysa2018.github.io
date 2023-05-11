@@ -48,7 +48,7 @@ category: presentation
 
     ---
     ## Values and Ethics:
-    <img src="/assets/2.jpeg" style="width:90%; height:40%; margin-left:10%;" />
+    <img src="/assets/2.jpeg" style="width:90%; height:30%; margin-left:10%;" />
 
     1. Honesty
     2. Authenticity
