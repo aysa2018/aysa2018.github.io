@@ -10,6 +10,7 @@ category: blog
 permalink: /corpus-assignment/
 ---
 
+## Uncovering Insights from Corpus Data through Utilization of Accessible Analytical Tools
 
 ## What is Corpus? 
 
