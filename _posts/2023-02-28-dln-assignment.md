@@ -36,8 +36,11 @@ To better analyze and interpret big datasets, we also looked at visualization to
 
 I learnt how to make aesthetically appealing maps in ***Kepler*** by considering factors like map style and color scales, which was a vital element of the course.
 
-Finally, we investigated several transcribing tools, including ***Transcribus*** for text and several 3D modeling platforms, including Thingiverse, 3dwarehouse, and Yeggi. In addition to learning how to use the technologies themselves, I was able to hone "soft skills" like observation, analysis, and innovation.
+We investigated several transcribing tools, including ***Transcribus*** for text and several 3D modeling platforms, including Thingiverse, 3dwarehouse, and Yeggi. In addition to learning how to use the technologies themselves, I was able to hone "soft skills" like observation, analysis, and innovation.
 
+During our last weeks of the class, we did orange mining and worked with image corpora. We studied kinds of metadata in cultural collections. We explored many art museums virtually and got to learn many other websites that are working with image analysis like Selfie city. We worked with AI generated images and image-clustering.
+
+We worked on our final project "Unoproject". This was particularly fascinating to me. Since we did not have to implement the project, we had a lot of creative flexibility to think and propose a project. I, with my groupmate, worked on the Authenticity of Asian Restaurants in UAE. This was a very fun project to end the semester with. I appreciate my classmates and Professor Wrisley for helping me in this very fun and hands-on class this semester.
 
 In conclusion, my digital literacy journey as a university student taking an introductory course in digital humanities has been eye-opening and enriching. I have come to appreciate the potential of technology for research data management, data manipulation, and analysis, and I am eager to continue learning about how to effectively utilize these tools in my academic and professional life. While I have some basic skills in content creation and social interaction, I am aware that there is still much more to learn and I am eager to continue to expand my knowledge and abilities in this area.
 
